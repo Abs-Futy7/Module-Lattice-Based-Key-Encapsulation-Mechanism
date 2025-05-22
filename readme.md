@@ -23,13 +23,11 @@ This repository provides Rust demo implementations of the NIST Draft Federal Inf
 
 ## Demo Screenshots
 
-
-```markdown
 ![FIPS 203 Example](screenshot/fips203.png)
 ![FIPS 204 Example 1](screenshot/fips204_1.png)
 ![FIPS 204 Example 2](screenshot/fips204_2.png)
 ![FIPS 205 Example](screenshot/fips205.png)
-```
+
 
 ---
 
